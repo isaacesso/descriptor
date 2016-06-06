@@ -1,2 +1,2 @@
 # descriptor
-A framework that make it easy to implement the Interpretor design pattern in php.
+A PHP library for easily implement the Interpretor design pattern in your projects.
