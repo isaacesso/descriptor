@@ -1,0 +1,22 @@
+{
+    "name": "isaacesso/descriptor",
+    "description": "A PHP library for easily implement the Interpretor design pattern in your projects.",
+    "keywords": ["interpretor", "pattern"],
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "illuminate/support": "5.2.*",
+        "phpunit/phpunit": "^5.4"
+    },
+    "authors": [
+        {
+            "name": "Isaac Esso",
+            "email": "daprod2009@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Esso\\Descriptor\\": "src/"
+        }
+    }
+}
